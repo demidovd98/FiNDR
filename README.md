@@ -52,34 +52,53 @@ Textual and visual prototypes are combined into a lightweight vision–language 
 
 ### 1. Setup Environment
 
-#### 1.1 Set up environment using PIP:
+#### 1.1a Set up environment using PIP:
 
-a. Install Python 3.9.16 (skip if installed already):
+1. Install Python 3.9.16 (skip if installed already):
 ```bash
 # installing Python with conda, but you can use any other method
 conda create -n findr python=3.9.16 -y
 conda activate findr
 ```
 
-b. Install dependencies with PIP:
+2. Install dependencies with PIP:
 ```bash
 pip install -r envs/pip_requirements.txt
 ```
 
-#### 1.2 Alternatively, set up environment using Conda:
+#### 1.1b Alternatively, set up environment using Conda:
 
-a. Install dependencies with Conda:
+1. Install dependencies with Conda:
 ```bash
 conda env create -f envs/conda_environment.yml
 # or
 conda create --name findr --file envs/conda_requirements.txt
 ```
 
-b. Activate the environment and install CLIP (non-conda package):
+2. Activate the environment and install CLIP (non-conda package):
 ```bash
 conda activate e-finer
 pip install git+https://github.com/openai/CLIP.git
 ```
+
+#### 1.2 Install dependencies for a chosen LMM:
+
+a. For **Qwen-VL** (used in our experiments):
+```bash
+pip install openai
+```
+
+b. For **Gemini**:
+```bash
+pip install google-genai
+```
+
+c. For **ChatGPT**:
+```bash
+pip install openai
+```
+
+d. For other LMMs, please refer to their respective repositories for installation instructions.
 
 ### 2. Prepare Datasets
 For dataset download and preparation, please follow a beautifully written guide available [here](https://github.com/OatmealLiu/FineR?tab=readme-ov-file#-datasets-preparation).
@@ -91,7 +110,7 @@ The discovered class names are already provided in the `data/guessed_classnames/
 \[Optionally\] To re-discover clasnames, run: 
 ```bash
 # For a custom dataset - update generation config in the script
-TOADD
+python -m data.generate_classnames
 ```
 
 ### 4. Vocabulary-free Classification
