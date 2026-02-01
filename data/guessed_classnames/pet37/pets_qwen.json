@@ -1,0 +1,1675 @@
+{
+    "036.Yorkshire_Terrier/036.Yorkshire_Terrier_186.jpg": {
+        "guessed_classnames": {
+            "1": "Yorkshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/036.Yorkshire_Terrier/036.Yorkshire_Terrier_186.jpg",
+        "image_id": 0,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Yorkshire Terrier, commonly referred to as a \"Yorkie.\" This breed is known for its small size, silky coat, and distinctive facial features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Yorkshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "036.Yorkshire_Terrier/036.Yorkshire_Terrier_101.jpg": {
+        "guessed_classnames": {
+            "1": "Yorkshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/036.Yorkshire_Terrier/036.Yorkshire_Terrier_101.jpg",
+        "image_id": 1,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Yorkshire Terrier, commonly referred to as a \"Yorkie.\" This breed is known for its small size, silky coat, and distinctive facial features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Yorkshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "036.Yorkshire_Terrier/036.Yorkshire_Terrier_13.jpg": {
+        "guessed_classnames": {
+            "1": "Yorkshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/036.Yorkshire_Terrier/036.Yorkshire_Terrier_13.jpg",
+        "image_id": 2,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Yorkshire Terrier, commonly referred to as a \"Yorkie.\" This breed is known for its small size, silky coat, and distinctive facial features. The dog in the picture appears to be wearing a decorative bandana, which is a common accessory for this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Yorkshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "020.Maine_Coon/020.Maine_Coon_103.jpg": {
+        "guessed_classnames": {
+            "1": "Maine Coon"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/020.Maine_Coon/020.Maine_Coon_103.jpg",
+        "image_id": 3,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The provided image shows a **Maine Coon** cat. This breed is recognizable by its large size, long fur, tufted ears, and bushy tail. The specific fur pattern, which includes a mix of black, white, and gray, is characteristic of a \"smoke\" or \"shaded\" variety of Maine Coon.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Maine Coon"
+        },
+        "model_service_success": true
+    },
+    "020.Maine_Coon/020.Maine_Coon_101.jpg": {
+        "guessed_classnames": {
+            "1": "Maine Coon"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/020.Maine_Coon/020.Maine_Coon_101.jpg",
+        "image_id": 4,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat, specifically a long-haired breed. Based on its appearance, it resembles a Maine Coon or a similar breed with long fur, tufted ears, and a robust body. The orange coloration suggests it may be a ginger or flame point variant. However, without genetic testing or more specific breed information, this identification is based on visual characteristics alone.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Maine Coon"
+        },
+        "model_service_success": true
+    },
+    "020.Maine_Coon/020.Maine_Coon_19.jpg": {
+        "guessed_classnames": {
+            "1": "Maine Coon"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/020.Maine_Coon/020.Maine_Coon_19.jpg",
+        "image_id": 5,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a domestic cat. Based on its long, fluffy coat and tufted ears, it appears to be a Maine Coon or a similar long-haired breed. Maine Coons are known for their large size, tufted ears, and bushy tails. The specific coloration in the image suggests it may be a silver tabby pattern.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Maine Coon"
+        },
+        "model_service_success": true
+    },
+    "022.Newfoundland/022.Newfoundland_131.jpg": {
+        "guessed_classnames": {
+            "1": "Newfoundland Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/022.Newfoundland/022.Newfoundland_131.jpg",
+        "image_id": 6,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a **Newfoundland dog**. This breed is known for its large size, thick coat, and friendly temperament. The dog in the image displays the characteristic features of a Newfoundland, including its large, sturdy build and long, dense fur.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Newfoundland Dog"
+        },
+        "model_service_success": true
+    },
+    "022.Newfoundland/022.Newfoundland_129.jpg": {
+        "guessed_classnames": {
+            "1": "Newfoundland Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/022.Newfoundland/022.Newfoundland_129.jpg",
+        "image_id": 7,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Newfoundland dog. This breed is known for its large size, thick double coat, and webbed feet, which help in swimming. They are often described as gentle giants and are known for their loyalty and friendly nature. The dog in the picture appears to have the characteristic fluffy coat and robust build typical of the Newfoundland breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Newfoundland Dog"
+        },
+        "model_service_success": true
+    },
+    "022.Newfoundland/022.Newfoundland_174.jpg": {
+        "guessed_classnames": {
+            "1": "Flat Coated Retriever"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/022.Newfoundland/022.Newfoundland_174.jpg",
+        "image_id": 8,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its physical characteristics, such as its long, wavy coat, floppy ears, and overall body structure, it appears to be a Flat-Coated Retriever. This breed is known for its friendly demeanor and is often used for hunting and retrieving.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Flat Coated Retriever"
+        },
+        "model_service_success": true
+    },
+    "008.Boxer/008.Boxer_102.jpg": {
+        "guessed_classnames": {
+            "1": "Boxer Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/008.Boxer/008.Boxer_102.jpg",
+        "image_id": 9,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Boxer dog. Boxers are known for their distinctive facial features, including a short muzzle, a wrinkled brow, and a fawn or brindle coat with white markings. The dog in the image exhibits these characteristic traits.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Boxer Dog"
+        },
+        "model_service_success": true
+    },
+    "008.Boxer/008.Boxer_116.jpg": {
+        "guessed_classnames": {
+            "1": "Boxer"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/008.Boxer/008.Boxer_116.jpg",
+        "image_id": 10,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Boxer dog. Boxers are a breed of medium to large-sized dogs known for their distinctive physical features, including a short coat, a broad head, and a muscular build. The dog in the image exhibits these characteristics, with its fawn-colored coat and black mask on the face, which are common traits of the Boxer breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Boxer"
+        },
+        "model_service_success": true
+    },
+    "008.Boxer/008.Boxer_174.jpg": {
+        "guessed_classnames": {
+            "1": "Boxer"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/008.Boxer/008.Boxer_174.jpg",
+        "image_id": 11,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a Boxer. Boxers are known for their distinctive features such as a broad head, short muzzle, and muscular build. The dog in the image exhibits these characteristics, including the fawn-colored coat with a black mask on its face, which is common in this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Boxer"
+        },
+        "model_service_success": true
+    },
+    "018.Keeshond/018.Keeshond_141.jpg": {
+        "guessed_classnames": {
+            "1": "Keeshond"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/018.Keeshond/018.Keeshond_141.jpg",
+        "image_id": 12,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Keeshond, a breed of dog. Keeshonds are known for their fluffy double coat, fox-like face, and friendly demeanor. They typically have a mix of gray, black, and cream coloring, as seen in this image.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Keeshond"
+        },
+        "model_service_success": true
+    },
+    "018.Keeshond/018.Keeshond_136.jpg": {
+        "guessed_classnames": {
+            "1": "Keeshond"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/018.Keeshond/018.Keeshond_136.jpg",
+        "image_id": 13,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Keeshond, which is a breed of dog. Keeshonds are known for their fluffy double coat, fox-like face, and friendly demeanor. They are part of the Spitz family of dogs and are often recognized by their distinctive \"spectacles\" around the eyes.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Keeshond"
+        },
+        "model_service_success": true
+    },
+    "018.Keeshond/018.Keeshond_104.jpg": {
+        "guessed_classnames": {
+            "1": "Keeshond"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/018.Keeshond/018.Keeshond_104.jpg",
+        "image_id": 14,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Keeshond, which is a breed of dog. Keeshonds are known for their fluffy double coat, fox-like face, and friendly demeanor. They are often recognized by their distinctive \"spectacles\" around the eyes and their curled tail that rests over their back.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Keeshond"
+        },
+        "model_service_success": true
+    },
+    "031.Shiba_Inu/031.Shiba_Inu_175.jpg": {
+        "guessed_classnames": {
+            "1": "Shiba Inu"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/031.Shiba_Inu/031.Shiba_Inu_175.jpg",
+        "image_id": 15,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The exact pet species in the provided image is a dog. Based on the visible physical characteristics such as the coat pattern, ear shape, and facial structure, the dog appears to be a Shiba Inu or a similar breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Shiba Inu"
+        },
+        "model_service_success": true
+    },
+    "031.Shiba_Inu/031.Shiba_Inu_172.jpg": {
+        "guessed_classnames": {
+            "1": "Shiba Inu"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/031.Shiba_Inu/031.Shiba_Inu_172.jpg",
+        "image_id": 16,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a Shiba Inu. This breed is recognizable by its fox-like appearance, pointed ears, curled tail, and compact body. The Shiba Inu is a Japanese breed known for its alertness and independence.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Shiba Inu"
+        },
+        "model_service_success": true
+    },
+    "031.Shiba_Inu/031.Shiba_Inu_128.jpg": {
+        "guessed_classnames": {
+            "1": "Shiba Inu"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/031.Shiba_Inu/031.Shiba_Inu_128.jpg",
+        "image_id": 17,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Shiba Inu, a breed of dog. Shiba Inus are known for their fox-like appearance, compact size, and distinctive curled tail. They are native to Japan and are often recognized for their alertness and independence.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Shiba Inu"
+        },
+        "model_service_success": true
+    },
+    "034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_114.jpg": {
+        "guessed_classnames": {
+            "1": "American Staffordshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_114.jpg",
+        "image_id": 18,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its physical characteristics, such as the short coat, muscular build, and distinctive facial features, it appears to be an American Staffordshire Terrier or a similar breed. These dogs are known for their strength, loyalty, and friendly demeanor when properly trained and socialized.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "American Staffordshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_198.jpg": {
+        "guessed_classnames": {
+            "1": "Staffordshire Bull Terrier",
+            "2": "American Staffordshire Terrier",
+            "3": "American Pit Bull Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_198.jpg",
+        "image_id": 19,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The animal in the provided image is a dog. More specifically, based on its physical characteristics such as the brindle coat, strong build, and head shape, it appears to resemble a Staffordshire Bull Terrier or a dog with similar heritage, such as an American Staffordshire Terrier or an American Pit Bull Terrier. These breeds share similar physical traits and are often confused with one another due to their close lineage.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Staffordshire Bull Terrier",
+            "2": "American Staffordshire Terrier",
+            "3": "American Pit Bull Terrier"
+        },
+        "model_service_success": true
+    },
+    "034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_13.jpg": {
+        "guessed_classnames": {
+            "1": "Staffordshire Bull Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/034.Staffordshire_Bull_Terrier/034.Staffordshire_Bull_Terrier_13.jpg",
+        "image_id": 20,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its physical characteristics, such as the muscular build, broad head, short coat with brindle coloring, and upright ears, it appears to be a Staffordshire Bull Terrier or a similar breed. These dogs are known for their strength, loyalty, and friendly demeanor when properly trained and socialized.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Staffordshire Bull Terrier"
+        },
+        "model_service_success": true
+    },
+    "013.English_Setter/013.English_Setter_146.jpg": {
+        "guessed_classnames": {
+            "1": "English Setter"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/013.English_Setter/013.English_Setter_146.jpg",
+        "image_id": 21,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a puppy, specifically an English Setter. This breed is recognizable by its long, silky coat with speckled markings (often called \"belton\" patterns), floppy ears, and gentle expression. The puppy's white coat with brown spots is characteristic of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "English Setter"
+        },
+        "model_service_success": true
+    },
+    "013.English_Setter/013.English_Setter_12.jpg": {
+        "guessed_classnames": {
+            "1": "English Setter"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/013.English_Setter/013.English_Setter_12.jpg",
+        "image_id": 22,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Specifically, it appears to be an English Setter, which is characterized by its speckled coat (often referred to as \"belton\"), long ears, and gentle expression. The breed is known for its use in hunting and its friendly temperament.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "English Setter"
+        },
+        "model_service_success": true
+    },
+    "013.English_Setter/013.English_Setter_129.jpg": {
+        "guessed_classnames": {
+            "1": "English Setter"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/013.English_Setter/013.English_Setter_129.jpg",
+        "image_id": 23,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Specifically, it appears to be an English Setter, a breed known for its speckled coat pattern, which is often referred to as \"belton.\" The speckled pattern in this image is predominantly gray and white, which is characteristic of the blue belton variety of English Setters.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "English Setter"
+        },
+        "model_service_success": true
+    },
+    "001.American_Bulldog/001.American_Bulldog_192.jpg": {
+        "guessed_classnames": {
+            "1": "American Staffordshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/001.American_Bulldog/001.American_Bulldog_192.jpg",
+        "image_id": 24,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows a dog that appears to be an American Staffordshire Terrier. This breed is known for its strong build, short coat, and a broad head. The specific white and black color pattern seen in the image is common among American Staffordshire Terriers.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "American Staffordshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "001.American_Bulldog/001.American_Bulldog_194.jpg": {
+        "guessed_classnames": {
+            "1": "Labrador Retriever"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/001.American_Bulldog/001.American_Bulldog_194.jpg",
+        "image_id": 25,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a puppy, specifically a Labrador Retriever. This breed is known for its friendly demeanor, intelligence, and versatility as both a working dog and a family pet. The puppy's light-colored coat and facial features are characteristic of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Labrador Retriever"
+        },
+        "model_service_success": true
+    },
+    "001.American_Bulldog/001.American_Bulldog_146.jpg": {
+        "guessed_classnames": {
+            "1": "English Bulldog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/001.American_Bulldog/001.American_Bulldog_146.jpg",
+        "image_id": 26,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its physical characteristics, it appears to be an English Bulldog, a breed known for its distinctive features including a short, wrinkly face, bulbous nose, and broad shoulders.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "English Bulldog"
+        },
+        "model_service_success": true
+    },
+    "000.Abyssinian/000.Abyssinian_170.jpg": {
+        "guessed_classnames": {
+            "1": "Somali Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/000.Abyssinian/000.Abyssinian_170.jpg",
+        "image_id": 27,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Somali cat. The Somali is a long-haired variety of the Abyssinian cat, characterized by its dense, silky coat that comes in various colors, including ruddy, fawn, sorrel, and blue, accompanied by white markings known as white \"gloves\" on the paws and a white muzzle. The cat in the photo displays features typical of a Somali, such as the fine, bushy tail, the \"wild look\" of a ruff around the neck, and the overall plush coat. Somali cats are known for their active, playful nature and intelligence.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Somali Cat"
+        },
+        "model_service_success": true
+    },
+    "000.Abyssinian/000.Abyssinian_105.jpg": {
+        "guessed_classnames": {
+            "1": "Domestic Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/000.Abyssinian/000.Abyssinian_105.jpg",
+        "image_id": 28,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat. Based on its appearance, it seems to be a tabby cat, which is characterized by its distinctive coat pattern featuring stripes, spots, or swirling patterns. The specific breed cannot be determined from the image alone, but it is a common domestic cat.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Domestic Cat"
+        },
+        "model_service_success": true
+    },
+    "000.Abyssinian/000.Abyssinian_164.jpg": {
+        "guessed_classnames": {
+            "1": "Abyssinian Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/000.Abyssinian/000.Abyssinian_164.jpg",
+        "image_id": 29,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a cat, specifically an Abyssinian. This breed is recognizable by its slender build, large ears, and distinctive ticked coat pattern that gives it a shimmering appearance. The Abyssinian's coat coloration, often referred to as \"agouti,\" features individual hairs with alternating light and dark bands.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Abyssinian Cat"
+        },
+        "model_service_success": true
+    },
+    "023.Persian/023.Persian_195.jpg": {
+        "guessed_classnames": {
+            "1": "Persian Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/023.Persian/023.Persian_195.jpg",
+        "image_id": 30,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Persian cat. This breed is characterized by its long, dense coat, flat face, and large expressive eyes. The fluffy appearance and the coloration suggest it might be a variant of the Persian breed, possibly a Chinchilla Persian or a similar type with a golden hue.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Persian Cat"
+        },
+        "model_service_success": true
+    },
+    "023.Persian/023.Persian_189.jpg": {
+        "guessed_classnames": {
+            "1": "Persian Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/023.Persian/023.Persian_189.jpg",
+        "image_id": 31,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Persian cat. This breed is known for its long, fluffy coat, flat face, and expressive eyes. The specific coloration in this image suggests it may be a flame point or orange tabby Persian cat.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Persian Cat"
+        },
+        "model_service_success": true
+    },
+    "023.Persian/023.Persian_141.jpg": {
+        "guessed_classnames": {
+            "1": "Persian Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/023.Persian/023.Persian_141.jpg",
+        "image_id": 32,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Persian cat. This breed is characterized by its long, fluffy coat, flat face, and distinctive facial features, including a short nose and large eyes. The orange coloration suggests it may be a flame point or a similar color variant of the Persian breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Persian Cat"
+        },
+        "model_service_success": true
+    },
+    "019.Leonberger/019.Leonberger_169.jpg": {
+        "guessed_classnames": {
+            "1": "Leonberger"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/019.Leonberger/019.Leonberger_169.jpg",
+        "image_id": 33,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Leonberger. This breed is known for its large size, thick double coat, and gentle temperament. The dog in the picture displays the characteristic features of a Leonberger, including its lion-like mane around the neck and chest, as well as its overall build and coloration.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Leonberger"
+        },
+        "model_service_success": true
+    },
+    "019.Leonberger/019.Leonberger_187.jpg": {
+        "guessed_classnames": {
+            "1": "Leonberger"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/019.Leonberger/019.Leonberger_187.jpg",
+        "image_id": 34,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its physical characteristics, such as the long fur, coloration, and facial features, it appears to be a Leonberger or a mix that includes Leonberger traits. Leonbergers are large dogs known for their friendly demeanor and distinctive appearance.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Leonberger"
+        },
+        "model_service_success": true
+    },
+    "019.Leonberger/019.Leonberger_133.jpg": {
+        "guessed_classnames": {
+            "1": "Leonberger"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/019.Leonberger/019.Leonberger_133.jpg",
+        "image_id": 35,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Leonberger. This breed is known for its large size, long coat, and gentle temperament. The dog's appearance, including its thick fur, coloration, and overall body structure, matches the characteristics of a Leonberger.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Leonberger"
+        },
+        "model_service_success": true
+    },
+    "009.British_Shorthair/009.British_Shorthair_139.jpg": {
+        "guessed_classnames": {
+            "1": "British Shorthair"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/009.British_Shorthair/009.British_Shorthair_139.jpg",
+        "image_id": 36,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a cat. Specifically, it appears to be a British Shorthair breed, characterized by its round face, short dense coat, and large, expressive eyes. The gray coloration suggests it may be a \"blue\" variety of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "British Shorthair"
+        },
+        "model_service_success": true
+    },
+    "009.British_Shorthair/009.British_Shorthair_105.jpg": {
+        "guessed_classnames": {
+            "1": "British Shorthair Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/009.British_Shorthair/009.British_Shorthair_105.jpg",
+        "image_id": 37,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a **British Shorthair cat**. This breed is known for its distinctive round face, short dense coat, and sturdy build. The specific coloration shown here is likely the classic \"blue\" variety, which refers to a grayish-blue coat.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "British Shorthair Cat"
+        },
+        "model_service_success": true
+    },
+    "009.British_Shorthair/009.British_Shorthair_184.jpg": {
+        "guessed_classnames": {
+            "1": "British Shorthair"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/009.British_Shorthair/009.British_Shorthair_184.jpg",
+        "image_id": 38,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The animal in the image is a cat, specifically a British Shorthair. This breed is known for its round face, short coat, and plush cheeks. The gray coat with the hint of white on the chin and chest is characteristic of the classic \"blue\" coloration, which is a popular variant of British Shorthairs. The orange eyes are also typical for this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "British Shorthair"
+        },
+        "model_service_success": true
+    },
+    "014.German_Shorthaired/014.German_Shorthaired_184.jpg": {
+        "guessed_classnames": {
+            "1": "Dalmatian"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/014.German_Shorthaired/014.German_Shorthaired_184.jpg",
+        "image_id": 39,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Based on its appearance, it appears to be a Dalmatian or a Dalmatian mix. The distinctive black and white spotted coat is characteristic of this breed. However, without more specific information or a clearer view of other breed-defining features, it's difficult to determine if it is a purebred Dalmatian or a mix.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Dalmatian"
+        },
+        "model_service_success": true
+    },
+    "014.German_Shorthaired/014.German_Shorthaired_168.jpg": {
+        "guessed_classnames": {
+            "1": "German Shorthaired Pointer"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/014.German_Shorthaired/014.German_Shorthaired_168.jpg",
+        "image_id": 40,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Specifically, this dog appears to be a breed known as a German Shorthaired Pointer, characterized by its brown and white coat, distinctive markings, and alert expression. This breed is well-known for its athletic ability and hunting instincts.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "German Shorthaired Pointer"
+        },
+        "model_service_success": true
+    },
+    "014.German_Shorthaired/014.German_Shorthaired_142.jpg": {
+        "guessed_classnames": {
+            "1": "German Shorthaired Pointer"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/014.German_Shorthaired/014.German_Shorthaired_142.jpg",
+        "image_id": 41,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Based on its physical characteristics, such as the black and white spotted coat, it appears to be a German Shorthaired Pointer. This breed is known for its distinctive speckled or \"liver and white\" coat pattern, which is visible in the image. The dog is also wearing a red collar and holding what looks like a bone-shaped toy in its mouth.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "German Shorthaired Pointer"
+        },
+        "model_service_success": true
+    },
+    "033.Sphynx/033.Sphynx_175.jpg": {
+        "guessed_classnames": {
+            "1": "Sphynx Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/033.Sphynx/033.Sphynx_175.jpg",
+        "image_id": 42,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Sphynx cat. This breed is known for its lack of fur, large ears, and wrinkled skin. The image shows the characteristic features of a Sphynx, including its hairless body and prominent ears.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Sphynx Cat"
+        },
+        "model_service_success": true
+    },
+    "033.Sphynx/033.Sphynx_124.jpg": {
+        "guessed_classnames": {
+            "1": "Sphynx Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/033.Sphynx/033.Sphynx_124.jpg",
+        "image_id": 43,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Sphynx cat. This breed is known for its lack of fur, large ears, and wrinkled skin. The blue eyes and distinctive facial features further confirm this identification.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Sphynx Cat"
+        },
+        "model_service_success": true
+    },
+    "033.Sphynx/033.Sphynx_179.jpg": {
+        "guessed_classnames": {
+            "1": "Sphynx Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/033.Sphynx/033.Sphynx_179.jpg",
+        "image_id": 44,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Sphynx cat. This breed is known for its hairless appearance, large ears, and wrinkled skin. The Sphynx cat in the picture appears to be holding a Wii remote, which adds a playful element to the scene.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Sphynx Cat"
+        },
+        "model_service_success": true
+    },
+    "004.Beagle/004.Beagle_141.jpg": {
+        "guessed_classnames": {
+            "1": "Beagle"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/004.Beagle/004.Beagle_141.jpg",
+        "image_id": 45,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Based on its physical characteristics, such as the tricolor coat (black, white, and tan), floppy ears, and body shape, it appears to be a Beagle or a Beagle mix. Beagles are known for their distinctive coloring and are often kept as pets due to their friendly and gentle nature.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Beagle"
+        },
+        "model_service_success": true
+    },
+    "004.Beagle/004.Beagle_131.jpg": {
+        "guessed_classnames": {
+            "1": "Beagle"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/004.Beagle/004.Beagle_131.jpg",
+        "image_id": 46,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a beagle, a breed of dog. Beagles are characterized by their distinctively short legs, long ears, and a tricolor coat, which is typically white, black, and brown. They are often used for hunting and are known for their keen sense of smell.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Beagle"
+        },
+        "model_service_success": true
+    },
+    "004.Beagle/004.Beagle_167.jpg": {
+        "guessed_classnames": {
+            "1": "Dachshund"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/004.Beagle/004.Beagle_167.jpg",
+        "image_id": 47,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Specifically, it appears to be a Dachshund, also known as a \"wiener dog\" or \"sausage dog,\" due to its long body and short legs. The dog is lying comfortably in a wicker basket bed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Dachshund"
+        },
+        "model_service_success": true
+    },
+    "012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_105.jpg": {
+        "guessed_classnames": {
+            "1": "English Cocker Spaniel"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_105.jpg",
+        "image_id": 48,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is an English Cocker Spaniel. This breed is characterized by its medium-sized build, long and silky ears, and a distinctive feathered coat. The dog in the image displays the typical features of an English Cocker Spaniel, including a gentle and expressive eye, a well-proportioned head, and a soft, affectionate demeanor.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "English Cocker Spaniel"
+        },
+        "model_service_success": true
+    },
+    "012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_114.jpg": {
+        "guessed_classnames": {
+            "1": "Cocker Spaniel"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_114.jpg",
+        "image_id": 49,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a Cocker Spaniel. This breed is recognizable by its long, floppy ears, expressive eyes, and silky coat. The dog appears to be sitting in a grassy area, possibly enjoying some outdoor time.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Cocker Spaniel"
+        },
+        "model_service_success": true
+    },
+    "012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_107.jpg": {
+        "guessed_classnames": {
+            "1": "Cocker Spaniel"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/012.English_Cocker_Spaniel/012.English_Cocker_Spaniel_107.jpg",
+        "image_id": 50,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a Cocker Spaniel. This breed is known for its long, floppy ears, expressive eyes, and silky coat. The dog in the picture appears to have the characteristic features of a Cocker Spaniel, including its size, coat texture, and ear shape.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Cocker Spaniel"
+        },
+        "model_service_success": true
+    },
+    "032.Siamese/032.Siamese_128.jpg": {
+        "guessed_classnames": {
+            "1": "Siamese Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/032.Siamese/032.Siamese_128.jpg",
+        "image_id": 51,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Siamese cat. Siamese cats are easily recognizable due to their distinct color points, with darker fur on their faces, ears, paws, and tails, and lighter fur on their bodies. The specific coloration in the image, with the chocolate or seal point pattern, further identifies this particular breed. Siamese cats are known for their striking blue eyes and vocal nature.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Siamese Cat"
+        },
+        "model_service_success": true
+    },
+    "032.Siamese/032.Siamese_126.jpg": {
+        "guessed_classnames": {
+            "1": "Siamese Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/032.Siamese/032.Siamese_126.jpg",
+        "image_id": 52,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Siamese cat. This is identified by its distinctive color pattern known as \"points,\" where the ears, face, paws, and tail are darker than the rest of the body, and its striking blue eyes.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Siamese Cat"
+        },
+        "model_service_success": true
+    },
+    "032.Siamese/032.Siamese_176.jpg": {
+        "guessed_classnames": {
+            "1": "Siamese Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/032.Siamese/032.Siamese_176.jpg",
+        "image_id": 53,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Siamese cat. This breed is easily recognizable by its striking blue almond-shaped eyes, short smooth coat, and distinctive color points, which include darker fur on the ears, face, paws, and tail compared to the lighter body color.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Siamese Cat"
+        },
+        "model_service_success": true
+    },
+    "035.Wheaten_Terrier/035.Wheaten_Terrier_182.jpg": {
+        "guessed_classnames": {
+            "1": "Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/035.Wheaten_Terrier/035.Wheaten_Terrier_182.jpg",
+        "image_id": 54,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Based on its appearance, it appears to be a type of terrier or possibly a crossbreed. The shaggy, wiry coat and small build are characteristic of terrier breeds. However, without more specific details or a clearer view, it's not possible to definitively identify the exact breed or species within \"dog.\"",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Dog"
+        },
+        "model_service_success": true
+    },
+    "035.Wheaten_Terrier/035.Wheaten_Terrier_160.jpg": {
+        "guessed_classnames": {
+            "1": "Soft Coated Wheaten Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/035.Wheaten_Terrier/035.Wheaten_Terrier_160.jpg",
+        "image_id": 55,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image appears to be a dog, specifically a Soft Coated Wheaten Terrier. This breed is characterized by its soft, silky coat that is typically a wheat-colored shade. The dog's size, coat texture, and overall appearance align with the traits of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Soft Coated Wheaten Terrier"
+        },
+        "model_service_success": true
+    },
+    "035.Wheaten_Terrier/035.Wheaten_Terrier_107.jpg": {
+        "guessed_classnames": {
+            "1": "Goldendoodle"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/035.Wheaten_Terrier/035.Wheaten_Terrier_107.jpg",
+        "image_id": 56,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its appearance, it appears to be a Goldendoodle, which is a crossbreed between a Golden Retriever and a Poodle. The Goldendoodle is known for its fluffy, curly coat and friendly demeanor.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Goldendoodle"
+        },
+        "model_service_success": true
+    },
+    "007.Bombay/007.Bombay_111.jpg": {
+        "guessed_classnames": {
+            "1": "Domestic Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/007.Bombay/007.Bombay_111.jpg",
+        "image_id": 57,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat. Specifically, it appears to be a black cat with yellow eyes, which could belong to various breeds or be a mixed breed. Without more specific details about its physical characteristics, such as body shape, ear type, or coat texture, it's not possible to determine the exact breed. However, common black cat breeds include the Bombay, British Shorthair, and American Shorthair.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Domestic Cat"
+        },
+        "model_service_success": true
+    },
+    "007.Bombay/007.Bombay_110.jpg": {
+        "guessed_classnames": {
+            "1": "Bombay Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/007.Bombay/007.Bombay_110.jpg",
+        "image_id": 58,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a black cat. Based on its physical characteristics, such as the sleek coat, medium-sized body, and the shape of its ears and eyes, it appears to be a Bombay cat. The Bombay breed is known for its shiny black coat and golden eyes, which matches the features seen in this image.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Bombay Cat"
+        },
+        "model_service_success": true
+    },
+    "007.Bombay/007.Bombay_12.jpg": {
+        "guessed_classnames": {
+            "1": "Domestic Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/007.Bombay/007.Bombay_12.jpg",
+        "image_id": 59,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat. Based on its appearance, it appears to be a black cat with short fur, which could belong to various breeds or be a domestic shorthair. Without more specific details about its physical characteristics, such as body shape, tail length, or eye color, it's not possible to determine the exact breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Domestic Cat"
+        },
+        "model_service_success": true
+    },
+    "024.Pomeranian/024.Pomeranian_103.jpg": {
+        "guessed_classnames": {
+            "1": "Pomeranian Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/024.Pomeranian/024.Pomeranian_103.jpg",
+        "image_id": 60,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pomeranian dog. This breed is known for its small size, fluffy coat, and fox-like face. The dog in the picture appears to be wearing a colorful bandana, which is a common accessory for pets.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pomeranian Dog"
+        },
+        "model_service_success": true
+    },
+    "024.Pomeranian/024.Pomeranian_190.jpg": {
+        "guessed_classnames": {
+            "1": "Pomeranian"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/024.Pomeranian/024.Pomeranian_190.jpg",
+        "image_id": 61,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pomeranian. This breed is known for its small size, fluffy coat, and curled tail that fans out over its back. The Pomeranian in the picture has the characteristic light-colored fluffy coat, pointy ears, and fox-like face that are typical of the breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pomeranian"
+        },
+        "model_service_success": true
+    },
+    "024.Pomeranian/024.Pomeranian_109.jpg": {
+        "guessed_classnames": {
+            "1": "Pomeranian Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/024.Pomeranian/024.Pomeranian_109.jpg",
+        "image_id": 62,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pomeranian dog. Pomeranians are small dogs known for their fluffy coats, fox-like faces, and curled tails. They are a breed of the Spitz family and are often recognized for their lively and friendly personalities.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pomeranian Dog"
+        },
+        "model_service_success": true
+    },
+    "010.Chihuahua/010.Chihuahua_152.jpg": {
+        "guessed_classnames": {
+            "1": "Chihuahua"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/010.Chihuahua/010.Chihuahua_152.jpg",
+        "image_id": 63,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Chihuahua, which is a small dog breed. The specific variety shown appears to be a short-haired Chihuahua with a sleek coat.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Chihuahua"
+        },
+        "model_service_success": true
+    },
+    "010.Chihuahua/010.Chihuahua_112.jpg": {
+        "guessed_classnames": {
+            "1": "Jack Russell Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/010.Chihuahua/010.Chihuahua_112.jpg",
+        "image_id": 64,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image appears to be a dog, specifically resembling a Jack Russell Terrier or a similar small terrier breed. These dogs are known for their compact size, sturdy build, and white coat with possible markings of other colors. However, without more specific details or genetic testing, it's difficult to determine the exact breed mix.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Jack Russell Terrier"
+        },
+        "model_service_success": true
+    },
+    "010.Chihuahua/010.Chihuahua_103.jpg": {
+        "guessed_classnames": {
+            "1": "Chihuahua"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/010.Chihuahua/010.Chihuahua_103.jpg",
+        "image_id": 65,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Chihuahua, a small dog breed. Chihuahuas are known for their large ears and expressive eyes, as seen in the image. The dog is wearing a decorative collar, which adds a charming touch to its appearance.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Chihuahua"
+        },
+        "model_service_success": true
+    },
+    "006.Birman/006.Birman_117.jpg": {
+        "guessed_classnames": {
+            "1": "Siamese Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/006.Birman/006.Birman_117.jpg",
+        "image_id": 66,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Siamese cat. This breed is characterized by its distinctive coloration, with light-colored fur on the body and darker points (face, ears, paws, and tail). The cat also has striking blue eyes, which are typical of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Siamese Cat"
+        },
+        "model_service_success": true
+    },
+    "006.Birman/006.Birman_180.jpg": {
+        "guessed_classnames": {
+            "1": "Siamese"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/006.Birman/006.Birman_180.jpg",
+        "image_id": 67,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a cat, specifically a Siamese or a Siamese-related breed. This can be identified by its distinctive coloration, with lighter fur on the body and darker points (face, ears, paws, and tail). The breed is known for its sleek build, large ears, and striking blue eyes.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Siamese"
+        },
+        "model_service_success": true
+    },
+    "006.Birman/006.Birman_169.jpg": {
+        "guessed_classnames": {
+            "1": "Ragdoll Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/006.Birman/006.Birman_169.jpg",
+        "image_id": 68,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat, specifically a Ragdoll breed. This can be identified by its distinctive features such as blue eyes, a semi-longhaired coat, and a color pattern that includes a creamy body with darker points (ears, face, paws, and tail). The Ragdoll is known for its docile and affectionate nature.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Ragdoll Cat"
+        },
+        "model_service_success": true
+    },
+    "011.Egyptian_Mau/011.Egyptian_Mau_180.jpg": {
+        "guessed_classnames": {
+            "1": "Egyptian Mau"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/011.Egyptian_Mau/011.Egyptian_Mau_180.jpg",
+        "image_id": 69,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a kitten, specifically an Egyptian Mau. This breed is recognizable by its distinctive spotted coat pattern, large almond-shaped eyes, and alert ears. The Egyptian Mau is one of the few naturally spotted domestic cat breeds.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Egyptian Mau"
+        },
+        "model_service_success": true
+    },
+    "011.Egyptian_Mau/011.Egyptian_Mau_156.jpg": {
+        "guessed_classnames": {
+            "1": "Egyptian Mau"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/011.Egyptian_Mau/011.Egyptian_Mau_156.jpg",
+        "image_id": 70,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a cat, specifically an Egyptian Mau. This breed is recognizable by its distinctive spotted coat pattern, large almond-shaped eyes, and athletic build. The Egyptian Mau is one of the few naturally spotted domesticated cats.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Egyptian Mau"
+        },
+        "model_service_success": true
+    },
+    "011.Egyptian_Mau/011.Egyptian_Mau_181.jpg": {
+        "guessed_classnames": {
+            "1": "Egyptian Mau"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/011.Egyptian_Mau/011.Egyptian_Mau_181.jpg",
+        "image_id": 71,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The cat in the provided image appears to be an Egyptian Mau. This breed is recognizable by its distinctive spotted coat, large almond-shaped eyes, and alert ears. The Egyptian Mau is one of the few naturally spotted domestic cat breeds and is known for its athletic build and playful personality. The specific markings and body structure in the image align with the characteristics of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Egyptian Mau"
+        },
+        "model_service_success": true
+    },
+    "027.Russian_Blue/027.Russian_Blue_161.jpg": {
+        "guessed_classnames": {
+            "1": "Russian Blue"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/027.Russian_Blue/027.Russian_Blue_161.jpg",
+        "image_id": 72,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat. Based on its appearance, it seems to be a gray short-haired breed, possibly a Russian Blue or a similar breed, characterized by its dense, plush coat and bright green eyes. However, without more specific details or a clearer view of distinct breed characteristics, it's difficult to determine the exact breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Russian Blue"
+        },
+        "model_service_success": true
+    },
+    "027.Russian_Blue/027.Russian_Blue_151.jpg": {
+        "guessed_classnames": {
+            "1": "Russian Blue"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/027.Russian_Blue/027.Russian_Blue_151.jpg",
+        "image_id": 73,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a cat. Based on its appearance, it appears to be a breed known as the Russian Blue. This breed is characterized by its short, dense, and plush coat that has a distinctive bluish-gray color with a silvery sheen. The cat also has bright green eyes and erect ears, which are typical features of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Russian Blue"
+        },
+        "model_service_success": true
+    },
+    "027.Russian_Blue/027.Russian_Blue_118.jpg": {
+        "guessed_classnames": {
+            "1": "British Shorthair"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/027.Russian_Blue/027.Russian_Blue_118.jpg",
+        "image_id": 74,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a domestic cat. Based on its appearance, it seems to be a British Shorthair or a similar breed, characterized by its dense coat, round face, and sturdy build. The specific coloration suggests it could be a \"blue\" variety of this breed, which refers to a grayish-blue coat. However, without more detailed information, the exact breed cannot be confirmed with certainty.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "British Shorthair"
+        },
+        "model_service_success": true
+    },
+    "017.Japanese_Chin/017.Japanese_Chin_106.jpg": {
+        "guessed_classnames": {
+            "1": "Japanese Chin"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/017.Japanese_Chin/017.Japanese_Chin_106.jpg",
+        "image_id": 75,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Japanese Chin, also known as a Japanese Spaniel. This breed is characterized by its flat face, large expressive eyes, and a silky coat with a combination of white and another color, often brown or black. The Japanese Chin is a small companion dog with a distinctive appearance and a friendly, affectionate temperament.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Japanese Chin"
+        },
+        "model_service_success": true
+    },
+    "017.Japanese_Chin/017.Japanese_Chin_146.jpg": {
+        "guessed_classnames": {
+            "1": "Japanese Chin"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/017.Japanese_Chin/017.Japanese_Chin_146.jpg",
+        "image_id": 76,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its appearance, it appears to be a Japanese Chin (also known as a Japanese Spaniel). This breed is characterized by its small size, flat face, large expressive eyes, and a silky coat with a mix of white and another color, often black or brown. The dog in the image fits this description well.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Japanese Chin"
+        },
+        "model_service_success": true
+    },
+    "017.Japanese_Chin/017.Japanese_Chin_185.jpg": {
+        "guessed_classnames": {
+            "1": "Japanese Chin"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/017.Japanese_Chin/017.Japanese_Chin_185.jpg",
+        "image_id": 77,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows a Japanese Chin, also known as a Japanese Spaniel. This breed is characterized by a distinctive flat face, large eyes, and a luxurious coat, typically in black and white. They are small dogs originally from East Asia and are known for their companion-like nature.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Japanese Chin"
+        },
+        "model_service_success": true
+    },
+    "021.Miniature_Pinscher/021.Miniature_Pinscher_152.jpg": {
+        "guessed_classnames": {
+            "1": "Miniature Pinscher"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/021.Miniature_Pinscher/021.Miniature_Pinscher_152.jpg",
+        "image_id": 78,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows puppies that appear to be of the Miniature Pinscher breed. This breed is known for its small size, short coat, and distinctive coloring, which often includes black with tan markings. The puppies in the picture exhibit these characteristics.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Miniature Pinscher"
+        },
+        "model_service_success": true
+    },
+    "021.Miniature_Pinscher/021.Miniature_Pinscher_127.jpg": {
+        "guessed_classnames": {
+            "1": "Dachshund"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/021.Miniature_Pinscher/021.Miniature_Pinscher_127.jpg",
+        "image_id": 79,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog. Based on its appearance, it seems to be a mixed breed, possibly with traits of a Dachshund or a similar short-legged breed. However, without more specific information or a clearer image, it's difficult to determine the exact species or breed mix.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Dachshund"
+        },
+        "model_service_success": true
+    },
+    "021.Miniature_Pinscher/021.Miniature_Pinscher_121.jpg": {
+        "guessed_classnames": {
+            "1": "Miniature Pinscher"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/021.Miniature_Pinscher/021.Miniature_Pinscher_121.jpg",
+        "image_id": 80,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image appears to be a Miniature Pinscher, also known as a \"Min Pin.\" This breed is characterized by its small size, short coat, erect ears, and a sleek, muscular body. The dog's coloring, with a black coat and tan markings, is typical of this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Miniature Pinscher"
+        },
+        "model_service_success": true
+    },
+    "002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_174.jpg": {
+        "guessed_classnames": {
+            "1": "Vizsla"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_174.jpg",
+        "image_id": 81,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The dog in the image appears to be a Vizsla, which is a Hungarian breed. Vizslas are known for their short, red-yellow coats, and they are often muscular with a lean build and floppy ears. This dog displays those characteristic features. However, without further information or a better angle for comparison, it's possible the dog might have some Vizsla traits with other breeds mixed in.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Vizsla"
+        },
+        "model_service_success": true
+    },
+    "002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_140.jpg": {
+        "guessed_classnames": {
+            "1": "American Staffordshire Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_140.jpg",
+        "image_id": 82,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows a dog, which appears to be an American Staffordshire Terrier or a similar breed. This breed is characterized by a broad head, muscular build, and short coat. The specific pattern on this dog is brindle with white markings, which is common for this type of terrier. However, without genetic testing or more detailed information, the exact species (breed) cannot be determined with absolute certainty.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "American Staffordshire Terrier"
+        },
+        "model_service_success": true
+    },
+    "002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_121.jpg": {
+        "guessed_classnames": {
+            "1": "Labrador Retriever"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/002.American_Pit_Bull_Terrier/002.American_Pit_Bull_Terrier_121.jpg",
+        "image_id": 83,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows a puppy that appears to be a mixed breed, possibly with traits of breeds like a Labrador Retriever or a similar medium-to-large breed. However, without genetic testing or more detailed information about its lineage, it's not possible to determine the exact species or breed mix. Mixed-breed dogs often have characteristics from multiple breeds.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Labrador Retriever"
+        },
+        "model_service_success": true
+    },
+    "016.Havanese/016.Havanese_187.jpg": {
+        "guessed_classnames": {
+            "1": "Komondor"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/016.Havanese/016.Havanese_187.jpg",
+        "image_id": 84,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Komondor, a breed of large livestock guardian dog that is known for its unique, corded coat that resembles dreadlocks. This breed is often mistaken for a mop due to its distinctive appearance.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Komondor"
+        },
+        "model_service_success": true
+    },
+    "016.Havanese/016.Havanese_156.jpg": {
+        "guessed_classnames": {
+            "1": "Havanese",
+            "2": "Bichon Frise"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/016.Havanese/016.Havanese_156.jpg",
+        "image_id": 85,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog. Based on its appearance, it appears to be a breed similar to a Havanese or a Bichon Frise, characterized by its small size, fluffy coat, and curled tail. However, without more specific details or genetic testing, it's difficult to determine the exact breed with certainty. It could also be a mix of breeds that share similar physical traits.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Havanese",
+            "2": "Bichon Frise"
+        },
+        "model_service_success": true
+    },
+    "016.Havanese/016.Havanese_158.jpg": {
+        "guessed_classnames": {
+            "1": "Havanese"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/016.Havanese/016.Havanese_158.jpg",
+        "image_id": 86,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a Havanese. This breed is known for its small size, fluffy coat, and friendly demeanor. The Havanese is often recognized by its silky fur and expressive eyes, as seen in the image.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Havanese"
+        },
+        "model_service_success": true
+    },
+    "015.Great_Pyrenees/015.Great_Pyrenees_109.jpg": {
+        "guessed_classnames": {
+            "1": "Great Pyrenees",
+            "2": "Pyrenean Mountain Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/015.Great_Pyrenees/015.Great_Pyrenees_109.jpg",
+        "image_id": 87,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image appears to be a **Great Pyrenees** dog, also known as a **Pyrenean Mountain Dog**. This breed is easily recognizable by its large size, thick white coat that is often gently curled, and a calm and gentle demeanor. The dog in the picture exhibits characteristics typical of this breed, such as the long, fluffy fur, sturdy build, and calm expression.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Great Pyrenees",
+            "2": "Pyrenean Mountain Dog"
+        },
+        "model_service_success": true
+    },
+    "015.Great_Pyrenees/015.Great_Pyrenees_106.jpg": {
+        "guessed_classnames": {
+            "1": "Great Pyrenees"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/015.Great_Pyrenees/015.Great_Pyrenees_106.jpg",
+        "image_id": 88,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog, specifically a breed that resembles a Great Pyrenees. This breed is known for its large size, thick white coat, and gentle temperament. They are often used as livestock guardian dogs but also make excellent family pets.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Great Pyrenees"
+        },
+        "model_service_success": true
+    },
+    "015.Great_Pyrenees/015.Great_Pyrenees_177.jpg": {
+        "guessed_classnames": {
+            "1": "Great Pyrenees"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/015.Great_Pyrenees/015.Great_Pyrenees_177.jpg",
+        "image_id": 89,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog breed known as the Great Pyrenees. This breed is characterized by its large size, thick, white coat, and gentle demeanor. They are often recognized for their use as working dogs, particularly as livestock guardians in mountainous regions.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Great Pyrenees"
+        },
+        "model_service_success": true
+    },
+    "003.Basset_Hound/003.Basset_Hound_101.jpg": {
+        "guessed_classnames": {
+            "1": "Basset Hound"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/003.Basset_Hound/003.Basset_Hound_101.jpg",
+        "image_id": 90,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Basset Hound. This breed is easily recognizable by its long, droopy ears, short legs, and elongated body. The dog's coat coloration, with patches of brown and white, is also typical for this breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Basset Hound"
+        },
+        "model_service_success": true
+    },
+    "003.Basset_Hound/003.Basset_Hound_103.jpg": {
+        "guessed_classnames": {
+            "1": "Beagle"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/003.Basset_Hound/003.Basset_Hound_103.jpg",
+        "image_id": 91,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet species in the provided image is a Beagle. This breed is easily identified by its tri-color coat (black, white, and brown/tan), droopy ears, and compact body, as well as its stance and facial features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Beagle"
+        },
+        "model_service_success": true
+    },
+    "003.Basset_Hound/003.Basset_Hound_139.jpg": {
+        "guessed_classnames": {
+            "1": "Basset Hound"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/003.Basset_Hound/003.Basset_Hound_139.jpg",
+        "image_id": 92,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Basset Hound. This breed is easily recognizable by its long, droopy ears, short legs, and elongated body. The dog in the picture displays these characteristic features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Basset Hound"
+        },
+        "model_service_success": true
+    },
+    "029.Samoyed/029.Samoyed_143.jpg": {
+        "guessed_classnames": {
+            "1": "Samoyed"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/029.Samoyed/029.Samoyed_143.jpg",
+        "image_id": 93,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Samoyed, a breed of dog known for its fluffy white coat, friendly expression, and curled tail over the back. This breed is also often characterized by its \"Sammy smile,\" which appears to be present in this image.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Samoyed"
+        },
+        "model_service_success": true
+    },
+    "029.Samoyed/029.Samoyed_104.jpg": {
+        "guessed_classnames": {
+            "1": "Samoyed Dog"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/029.Samoyed/029.Samoyed_104.jpg",
+        "image_id": 94,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a Samoyed dog. This breed is known for its fluffy white coat, friendly expression, and curled tail. Samoyeds are medium to large-sized dogs originally bred for herding reindeer and pulling sleds in Siberia.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Samoyed Dog"
+        },
+        "model_service_success": true
+    },
+    "029.Samoyed/029.Samoyed_11.jpg": {
+        "guessed_classnames": {
+            "1": "Samoyed"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/029.Samoyed/029.Samoyed_11.jpg",
+        "image_id": 95,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Samoyed, a breed of dog known for its fluffy white coat and friendly demeanor. Samoyeds are medium to large-sized dogs originally bred for herding reindeer and pulling sleds in Siberia. They are easily recognizable by their thick, snow-white fur and distinctive \"Sammy smile,\" often seen in their slightly upturned mouths.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Samoyed"
+        },
+        "model_service_success": true
+    },
+    "025.Pug/025.Pug_175.jpg": {
+        "guessed_classnames": {
+            "1": "Pug"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/025.Pug/025.Pug_175.jpg",
+        "image_id": 96,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pug, which is a breed of dog. Pugs are known for their distinctive features such as a wrinkled face, short muzzle, and compact body.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pug"
+        },
+        "model_service_success": true
+    },
+    "025.Pug/025.Pug_15.jpg": {
+        "guessed_classnames": {
+            "1": "Pug"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/025.Pug/025.Pug_15.jpg",
+        "image_id": 97,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pug. This breed of dog is easily recognizable by its distinctive features, including a wrinkled face with a short muzzle, large round eyes, and a compact body. The Pug is a small breed known for its friendly and playful nature.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pug"
+        },
+        "model_service_success": true
+    },
+    "025.Pug/025.Pug_104.jpg": {
+        "guessed_classnames": {
+            "1": "Pug"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/025.Pug/025.Pug_104.jpg",
+        "image_id": 98,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Pug. This breed of dog is easily recognizable by its distinctive features, including a wrinkled face with a short muzzle, large round eyes, and a curled tail. The Pug in the picture appears to be a young one, given its playful expression and small size.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Pug"
+        },
+        "model_service_success": true
+    },
+    "028.Saint_Bernard/028.Saint_Bernard_107.jpg": {
+        "guessed_classnames": {
+            "1": "St. Bernard"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/028.Saint_Bernard/028.Saint_Bernard_107.jpg",
+        "image_id": 99,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a **St. Bernard**, a breed of large working dog known for its strength, size, and historical role in rescue operations. They are characterized by their muscular build, thick coat, and large size, and they typically have a white and brown or reddish fur pattern. This appears to be a young St. Bernard given its size and facial features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "St. Bernard"
+        },
+        "model_service_success": true
+    },
+    "028.Saint_Bernard/028.Saint_Bernard_15.jpg": {
+        "guessed_classnames": {
+            "1": "Saint Bernard"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/028.Saint_Bernard/028.Saint_Bernard_15.jpg",
+        "image_id": 100,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pets in the provided image are dogs. Specifically, they appear to be Saint Bernard dogs, which are known for their large size, friendly demeanor, and distinctive coat patterns that often include white with brown or black markings. The image shows one adult Saint Bernard and one younger Saint Bernard, likely a puppy.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Saint Bernard"
+        },
+        "model_service_success": true
+    },
+    "028.Saint_Bernard/028.Saint_Bernard_136.jpg": {
+        "guessed_classnames": {
+            "1": "Saint Bernard"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/028.Saint_Bernard/028.Saint_Bernard_136.jpg",
+        "image_id": 101,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Saint Bernard dog. This breed is known for its large size, friendly demeanor, and distinctive coat pattern, which often includes white with brown or black markings. The dog in the image displays these characteristic features.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Saint Bernard"
+        },
+        "model_service_success": true
+    },
+    "030.Scottish_Terrier/030.Scottish_Terrier_155.jpg": {
+        "guessed_classnames": {
+            "1": "Scottish Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/030.Scottish_Terrier/030.Scottish_Terrier_155.jpg",
+        "image_id": 102,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Scottish Terrier, also known as a \"Scottie.\" This breed is characterized by its distinctive beard, compact body, and short legs. The dog in the image displays the typical black coat and facial features of a Scottish Terrier.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Scottish Terrier"
+        },
+        "model_service_success": true
+    },
+    "030.Scottish_Terrier/030.Scottish_Terrier_132.jpg": {
+        "guessed_classnames": {
+            "1": "Scottish Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/030.Scottish_Terrier/030.Scottish_Terrier_132.jpg",
+        "image_id": 103,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the image is a dog, specifically a Scottish Terrier, also known as a \"Scottie.\" This breed is characterized by its distinctive beard, compact body, and erect ears.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Scottish Terrier"
+        },
+        "model_service_success": true
+    },
+    "030.Scottish_Terrier/030.Scottish_Terrier_16.jpg": {
+        "guessed_classnames": {
+            "1": "West Highland White Terrier"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/030.Scottish_Terrier/030.Scottish_Terrier_16.jpg",
+        "image_id": 104,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a dog, specifically a West Highland White Terrier (often referred to as a \"Westie\"). This breed is known for its distinctive white coat, compact size, and alert expression.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "West Highland White Terrier"
+        },
+        "model_service_success": true
+    },
+    "026.Ragdoll/026.Ragdoll_179.jpg": {
+        "guessed_classnames": {
+            "1": "Ragdoll Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/026.Ragdoll/026.Ragdoll_179.jpg",
+        "image_id": 105,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a cat, specifically a Ragdoll. Ragdolls are known for their large size, semi-long fur, and gentle temperament. The cat in the image displays the characteristic blue eyes and color-point pattern (lighter body with darker points on the face, ears, paws, and tail) typical of Ragdoll cats.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Ragdoll Cat"
+        },
+        "model_service_success": true
+    },
+    "026.Ragdoll/026.Ragdoll_176.jpg": {
+        "guessed_classnames": {
+            "1": "Ragdoll Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/026.Ragdoll/026.Ragdoll_176.jpg",
+        "image_id": 106,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Ragdoll cat. Ragdoll cats are known for their gentle temperament, blue eyes, semi-long hair, and color-pointing, which includes darker fur on the face, ears, paws, and tail compared to the lighter body color. The specific traits visible here, such as the light cream-colored fur with darker points, and the plush coat, are characteristic of the Ragdoll breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Ragdoll Cat"
+        },
+        "model_service_success": true
+    },
+    "026.Ragdoll/026.Ragdoll_174.jpg": {
+        "guessed_classnames": {
+            "1": "Ragdoll Kitten"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/026.Ragdoll/026.Ragdoll_174.jpg",
+        "image_id": 107,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a kitten, specifically a Ragdoll breed. Ragdolls are known for their semi-long fur, blue eyes, and gentle temperament. The kitten in the picture displays typical Ragdoll features such as a light-colored coat with darker points on the ears, face, paws, and tail.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Ragdoll Kitten"
+        },
+        "model_service_success": true
+    },
+    "005.Bengal/005.Bengal_127.jpg": {
+        "guessed_classnames": {
+            "1": "Bengal Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/005.Bengal/005.Bengal_127.jpg",
+        "image_id": 108,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet species in the provided image is a domestic cat. More specifically, the cat appears to be a Bengal cat, characterized by its distinctive spotted and marbled coat pattern, muscular build, and large eyes. Bengal cats are known for their wild appearance due to their ancestry, which includes a mix of domestic cats and Asian leopard cats.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Bengal Cat"
+        },
+        "model_service_success": true
+    },
+    "005.Bengal/005.Bengal_123.jpg": {
+        "guessed_classnames": {
+            "1": "Bengal Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/005.Bengal/005.Bengal_123.jpg",
+        "image_id": 109,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The image shows a Bengal cat. Bengal cats are known for their spots or marbled patterns and are often considered to have a wild appearance reminiscent of leopards. This particular cat has the characteristic spotted coat typical of the breed.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Bengal Cat"
+        },
+        "model_service_success": true
+    },
+    "005.Bengal/005.Bengal_117.jpg": {
+        "guessed_classnames": {
+            "1": "Bengal Cat"
+        },
+        "image_path": "/l/users/20020067/Activities/CLIP_prompts/finer/FineR/datasets/pet_37/images_discovery_all_3/005.Bengal/005.Bengal_117.jpg",
+        "image_id": 110,
+        "model_main": "qwen/qwen2.5-vl-72b-instruct",
+        "model_main_response": "The pet in the provided image is a Bengal cat. This breed is known for its distinctive coat pattern, which resembles that of wild leopards or jaguars, with spots and rosettes on a golden or brown background. Bengal cats are a hybrid breed developed by crossing domestic cats with Asian leopard cats. They are often recognized for their wild appearance and energetic personalities.",
+        "model_main_success": true,
+        "model_service": "qwen/qwen2.5-vl-72b-instruct",
+        "model_service_response": {
+            "1": "Bengal Cat"
+        },
+        "model_service_success": true
+    }
+}
