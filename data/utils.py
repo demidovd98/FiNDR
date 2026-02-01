@@ -410,7 +410,7 @@ def tta(n_px):
     import torchvision.transforms as transforms
     return transforms.Compose([
         transforms.Resize( (n_px + 16), interpolation=transforms.InterpolationMode.BICUBIC),
-        transforms.RandomCrop(n_px),
+        transforms.RandomCrop(n_px, padding=16),
         lambda image: image.convert("RGB"),
         transforms.RandomHorizontalFlip(p=0.5),
 
