@@ -39,7 +39,7 @@ def setup_config(config_file_env: str, config_file_expt: str):
 
     #   |- file paths
     if cfg_expt['dataset_name'] == "bird":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "CUB_200_2011/CUB_200_2011/")
+        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "birds_200")
         cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "bird200")
         mkdir_if_missing(cfg_expt['expt_dir'])
     elif cfg_expt['dataset_name'] == "dog":
@@ -47,7 +47,7 @@ def setup_config(config_file_env: str, config_file_expt: str):
         cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "dog120")
         mkdir_if_missing(cfg_expt['expt_dir'])
     elif cfg_expt['dataset_name'] == "pet":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "pet_37")
+        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "pets_37")
         cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "pet37")
         mkdir_if_missing(cfg_expt['expt_dir'])
     elif cfg_expt['dataset_name'] == "flower":
@@ -55,20 +55,8 @@ def setup_config(config_file_env: str, config_file_expt: str):
         cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "flower102")
         mkdir_if_missing(cfg_expt['expt_dir'])
     elif cfg_expt['dataset_name'] == "car":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "car_196")
+        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "cars_196")
         cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "car196")
-        mkdir_if_missing(cfg_expt['expt_dir'])
-    elif cfg_expt['dataset_name'] == "food":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "food_101")
-        cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "food101")
-        mkdir_if_missing(cfg_expt['expt_dir'])
-    elif cfg_expt['dataset_name'] == "place":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "place_365")
-        cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "place365")
-        mkdir_if_missing(cfg_expt['expt_dir'])
-    elif cfg_expt['dataset_name'] == "pokemon":
-        cfg_expt['data_dir'] = os.path.join(cfg_env['data_root'], "pokemon")
-        cfg_expt['expt_dir'] = os.path.join(cfg_env['expt_root'], "pokemon")
         mkdir_if_missing(cfg_expt['expt_dir'])
     else:
         raise NameError(f"{cfg_expt['dataset_name']} is a wrong dataset name")
