@@ -2,6 +2,7 @@
 *.pth
 .vscode/
 /datasets/*
+!/datasets/.gitkeep
 
 
 # Byte-compiled / optimized / DLL files
