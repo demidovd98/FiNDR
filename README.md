@@ -31,7 +31,7 @@ The entire pipeline operates **without any predefined vocabulary, manual annotat
 
 ## Method Summary
 
-Given a small unlabelled discovery set \( D_{\text{disc}} \), FiNDR operates in three stages:
+Given a small unlabelled discovery set, FiNDR operates in three stages:
 
 ### 1. Vocabulary Discovery via Reasoning
 A reasoning-enabled LMM:
