@@ -86,9 +86,9 @@ For dataset download and preparation, please follow a beautifully written guide 
 All meta data needed for the supported datasets is provided in the `data/data_stats.py` file.
 
 ### 3. Classname Discovery
-The discovered class names are provided in the `data/guessed_classnames/` directory for all supported datasets.
-For classname discovery in a custom dataset...
+The discovered class names are already provided in the `data/guessed_classnames/` directory for all supported datasets.
 
+\[Optionally\] For classname discovery in a custom dataset:
 ```bash
 TOADD
 ```
