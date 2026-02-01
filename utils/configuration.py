@@ -61,17 +61,6 @@ def setup_config(config_file_env: str, config_file_expt: str):
     else:
         raise NameError(f"{cfg_expt['dataset_name']} is a wrong dataset name")
 
-    #for Stage Guess
-    cfg_expt['expt_dir_guess'] = cfg_expt['expt_dir']
-    mkdir_if_missing(cfg_expt['expt_dir_guess'])
-    cfg_expt['path_llm_replies_raw'] = os.path.join(cfg_expt['expt_dir_guess'],
-                                                    f"{cfg_expt['dataset_name']}_llm_replies_raw")
-    cfg_expt['path_llm_replies_jsoned'] = os.path.join(cfg_expt['expt_dir_guess'],
-                                                       f"{cfg_expt['dataset_name']}_llm_replies_jsoned")
-    cfg_expt['path_llm_gussed_names'] = os.path.join(cfg_expt['expt_dir_guess'],
-                                                     f"{cfg_expt['dataset_name']}_llm_gussed_names")
-
-    #   |- data augmentation
     return cfg_expt
 
 
