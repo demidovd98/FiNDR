@@ -88,8 +88,9 @@ All meta data needed for the supported datasets is provided in the `data/data_st
 ### 3. Classname Discovery
 The discovered class names are already provided in the `data/guessed_classnames/` directory for all supported datasets.
 
-\[Optionally\] For classname discovery in a custom dataset:
+\[Optionally\] To re-discover clasnames, run: 
 ```bash
+# For a custom dataset - update generation config in the script
 TOADD
 ```
 
