@@ -41,14 +41,14 @@ if lmm_discovered_classnames:
     top1_only = True  # to use only top-1 LMM discovered class-names
 ###
 
-## dev zone
+### dev zone
 print_classnames = False
 print_stats = False
 calculate_ub_results = False
 do_robustness_test = False
 if do_robustness_test:
-    robustness_test_type = "random noise" # options: ["generic_name", "misprediction", "random noise"]
-    robustness_data_portion = 0.1
+    robustness_test_type = "random noise"  # options: ["generic_name", "misprediction", "random noise"]
+    robustness_data_portion = 0.1   # portion of data to be modified for robustness test (0.0-1.0)
 ###
     
 ### vizualisation
