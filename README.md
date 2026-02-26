@@ -1,4 +1,4 @@
-# FiNDR: Vocabulary-Free Fine-Grained Recognition via Reasoning-Augmented LMMs
+# FiNDR: Vocabulary-Free Fine-Grained Recognition via Reasoning-Augmented LMMs (CVPR 2026)
 
 This repository contains the reference implementation for **FiNDR (Fine-grained Name Discovery via Reasoning)**, a fully automated framework for **vocabulary-free fine-grained image recognition** using reasoning-augmented Large Multi-Modal Models (LMMs).
 
@@ -6,6 +6,7 @@ This repository contains the reference implementation for **FiNDR (Fine-grained 
 > Dmitry Demidov, Zaigham Zaheer, Zongyan Han, Omkar Thawakar, Rao Anwer
 > Mohamed bin Zayed University of Artificial Intelligence
 > [[arXiv]](https://arxiv.org/abs/2512.18897)
+> [[CVPR 2026 (soon)]]()
 
 FiNDR removes the need for predefined or human-curated label vocabularies by discovering, verifying, and using fine-grained semantic class names directly from unlabelled images. Our approach challenges the assumption that human-defined vocabularies represent an upper bound for fine-grained recognition performance by outperforming zero-shot classifiers that rely on ground-truth class names.
 
