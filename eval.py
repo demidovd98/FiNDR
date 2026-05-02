@@ -13,6 +13,7 @@ from utils.configuration import setup_config, seed_everything
 from utils.fileios import *
 from utils.metrics import clustering_acc
 from utils.semantic_similarity import compute_semantic_similarity
+from utils.visualisation import generate_html_visualization
 
 
 from data import DATA_STATS, DATA_DISCOVERY, DATA_GROUPING, DATA_TRANSFORM
@@ -101,6 +102,7 @@ def generate_voted_classifier(
         cfg,
         encoder,
         guessed_cnames: list,
+        gt_cnames: list,
         modality: str = 'single',
         alpha: float = 0.5,
         N_tta = 0,
@@ -179,6 +181,19 @@ def generate_voted_classifier(
         guessed_cnames = [x.title() for x in guessed_cnames] # For ours [] to remove duplicates. For vanilla seems like it may be already done somwhere else further
         guessed_cnames = list(set(guessed_cnames))
     print("Number of guessed_cnames without duplicates: ", len(guessed_cnames))
+
+
+    # Generate visualization of ground truth vs guessed class names
+    if guessed_cnames is not None:
+        viz_output_path = f"./visualizations/{cfg['dataset_name']}_classnames_comparison.html"
+        generate_html_visualization(
+            gt_names=gt_cnames,
+            guessed_names=guessed_cnames,
+            output_path=viz_output_path,
+            title=f"{cfg['dataset_name'].upper()} - Ground Truth vs Guessed Class Names"
+        )
+    else:
+        print("[INFO] Skipping visualization: guessed class names not available")
 
 
     if do_robustness_test:
@@ -1048,7 +1063,7 @@ if __name__ == "__main__":
         gt_classifier, gt_name_list, len_gt_classifier = generate_cname_classifier(cfg, encoder, gt_cnames)
 
         vilang_classifier, vilang_name_list, len_vilang_classifier, texts_viz = generate_voted_classifier(
-            cfg, encoder, guessed_cnames, modality='cross', alpha=args.alpha, N_tta=args.N_tta,
+            cfg, encoder, guessed_cnames, gt_cnames, modality='cross', alpha=args.alpha, N_tta=args.N_tta,
             expt_id_suffix=expt_id_suffix,
         )
         #vilang_name_list = guessed_cnames  # use real text for debug and visualization purpose
