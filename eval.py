@@ -574,6 +574,17 @@ def generate_voted_classifier(
     if texts_viz is None:
         texts_viz = selected_names
 
+    # Generate visualization of candidates vs removed class names
+    viz_candidates_path = f"./visualizations/{cfg['dataset_name']}_candidates_vs_removed.html"
+    generate_html_visualization(
+        gt_names=gt_cnames,
+        guessed_names=guessed_cnames,
+        candidate_names=selected_names,
+        removed_names=removed_cnames, #list(set(guessed_cnames) - set(selected_names)),
+        output_path=viz_candidates_path,
+        title=f"{cfg['dataset_name'].upper()} - Candidates vs Removed Class Names"
+    )
+
     return selected_classifier, selected_names, len(selected_classifier), texts_viz
 
 

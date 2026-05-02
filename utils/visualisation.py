@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import List, Dict, Optional
 
 
+# unused currently
 def load_guessed_classnames(
     dataset_name: str,
     llm_name: str = 'qwen',
@@ -29,7 +30,9 @@ def generate_html_visualization(
     gt_names: List[str],
     guessed_names: List[str],
     output_path: str = './class_names_visualization.html',
-    title: str = 'Class Names Visualization'
+    title: str = 'Class Names Visualization',
+    candidate_names: Optional[List[str]] = None,
+    removed_names: Optional[List[str]] = None
 ) -> str:
     """
     Generate a nice HTML visualization for ground truth and guessed class names.
@@ -39,6 +42,8 @@ def generate_html_visualization(
         guessed_names: List of guessed class names
         output_path: Path where to save the HTML file
         title: Title for the visualization
+        candidate_names: Optional list of candidate class names after filtering
+        removed_names: Optional list of removed class names after filtering
     
     Returns:
         Path to the generated HTML file
@@ -118,37 +123,49 @@ def generate_html_visualization(
         }}
         
         .content {{
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 30px;
-            margin-bottom: 30px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
         }}
         
-        @media (max-width: 1024px) {{
-            .content {{
-                grid-template-columns: 1fr;
-            }}
-        }}
-        
-        .column {{
+        .section {{
             background: white;
             border-radius: 12px;
-            padding: 30px;
             box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
-            max-height: 600px;
-            overflow-y: auto;
+            overflow: hidden;
         }}
         
-        .column h2 {{
+        .section summary {{
+            padding: 20px 30px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+            cursor: pointer;
+            font-size: 1.2em;
+            font-weight: 600;
             color: #333;
-            margin-bottom: 20px;
-            font-size: 1.5em;
-            border-bottom: 3px solid #667eea;
-            padding-bottom: 10px;
-            position: sticky;
-            top: 0;
-            background: white;
-            z-index: 10;
+            list-style: none;
+        }}
+        
+        .section summary:hover {{
+            background: #e9ecef;
+        }}
+        
+        .section summary::-webkit-details-marker {{
+            display: none;
+        }}
+        
+        .section summary::before {{
+            content: "▶";
+            margin-right: 10px;
+            transition: transform 0.3s;
+        }}
+        
+        .section[open] summary::before {{
+            transform: rotate(90deg);
+        }}
+        
+        .section-content {{
+            padding: 30px;
         }}
         
         .name-list {{
@@ -173,6 +190,28 @@ def generate_html_visualization(
             transform: translateY(-2px);
             box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
             background: #e8eef7;
+        }}
+        
+        .name-tag.in-gt {{
+            background: #d4edda;
+            border-left: 4px solid #28a745;
+            color: #155724;
+        }}
+        
+        .name-tag.in-gt:hover {{
+            background: #c3e6cb;
+            box-shadow: 0 4px 12px rgba(40, 167, 69, 0.3);
+        }}
+        
+        .name-tag.not-in-gt {{
+            background: #f8d7da;
+            border-left: 4px solid #dc3545;
+            color: #721c24;
+        }}
+        
+        .name-tag.not-in-gt:hover {{
+            background: #f5c6cb;
+            box-shadow: 0 4px 12px rgba(220, 53, 69, 0.3);
         }}
         
         .analysis {{
@@ -280,51 +319,61 @@ def generate_html_visualization(
                     <div>Match %</div>
                     <span class="stat-value">{(len(common_names) / len(gt_names) * 100):.1f}%</span>
                 </div>
+                {f'''
+                <div class="stat-box">
+                    <div>Candidates</div>
+                    <span class="stat-value">{len(candidate_names)}</span>
+                </div>
+                ''' if candidate_names else ''}
+                {f'''
+                <div class="stat-box">
+                    <div>Removed</div>
+                    <span class="stat-value">{len(removed_names)}</span>
+                </div>
+                ''' if removed_names else ''}
             </div>
         </div>
         
         <div class="content">
-            <div class="column">
-                <h2>📘 Ground Truth Class Names</h2>
-                <div class="name-list">
-                    {"".join(f'<span class="name-tag">{name}</span>' for name in sorted(gt_names))}
+            <details class="section">
+                <summary>Ground Truth Class Names</summary>
+                <div class="section-content">
+                    <div class="name-list">
+                        {"".join(f'<span class="name-tag">{name}</span>' for name in sorted(gt_names))}
+                    </div>
                 </div>
-                <div class="scrollable-hint">Scroll to see all names</div>
-            </div>
+            </details>
             
-            <div class="column">
-                <h2>📗 Guessed Class Names</h2>
-                <div class="name-list">
-                    {"".join(f'<span class="name-tag">{name}</span>' for name in sorted(guessed_names))}
+            <details class="section">
+                <summary>Guessed Class Names</summary>
+                <div class="section-content">
+                    <div class="name-list">
+                        {"".join(f'<span class="name-tag {("in-gt" if name.lower().strip() in gt_set else "not-in-gt")}">{name}</span>' for name in sorted(guessed_names))}
+                    </div>
                 </div>
-                <div class="scrollable-hint">Scroll to see all names</div>
-            </div>
-        </div>
-        
-        <div class="analysis">
-            <div class="analysis-box">
-                <h3>✅ Common Names ({len(common_names)})</h3>
-                <ul>
-                    {"".join(f'<li class="common">{name}</li>' for name in common_names[:30])}
-                    {f'<li class="more-items">... and {len(common_names) - 30} more</li>' if len(common_names) > 30 else ''}
-                </ul>
-            </div>
+            </details>
             
-            <div class="analysis-box">
-                <h3>❌ Only in Ground Truth ({len(only_in_gt)})</h3>
-                <ul>
-                    {"".join(f'<li class="only-gt">{name}</li>' for name in only_in_gt[:30])}
-                    {f'<li class="more-items">... and {len(only_in_gt) - 30} more</li>' if len(only_in_gt) > 30 else ''}
-                </ul>
-            </div>
+            {f'''
+            <details class="section">
+                <summary>Removed Class Names</summary>
+                <div class="section-content">
+                    <div class="name-list">
+                        {"".join(f'<span class="name-tag {("in-gt" if name.lower().strip() in gt_set else "not-in-gt")}">{name}</span>' for name in sorted(removed_names))}
+                    </div>
+                </div>
+            </details>
+            ''' if removed_names else ''}
             
-            <div class="analysis-box">
-                <h3>⚠️ Only in Guessed ({len(only_in_guessed)})</h3>
-                <ul>
-                    {"".join(f'<li class="only-guessed">{name}</li>' for name in only_in_guessed[:30])}
-                    {f'<li class="more-items">... and {len(only_in_guessed) - 30} more</li>' if len(only_in_guessed) > 30 else ''}
-                </ul>
-            </div>
+            {f'''
+            <details class="section">
+                <summary>Final Kept Class Names</summary>
+                <div class="section-content">
+                    <div class="name-list">
+                        {"".join(f'<span class="name-tag {("in-gt" if name.lower().strip() in gt_set else "not-in-gt")}">{name}</span>' for name in sorted(candidate_names))}
+                    </div>
+                </div>
+            </details>
+            ''' if candidate_names else ''}
         </div>
         
         <div class="footer">
