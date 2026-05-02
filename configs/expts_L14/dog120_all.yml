@@ -31,15 +31,6 @@ clustering_method: multi_clip_voting
 model_size: ViT-L/14
 #model_size: ViT-L/14@336px
 
-# VQAs
-#   |- size: options = ['FlanT5-XXL', 'FlanT5-XL-COCO', 'FlanT5-XL', 'OPT6.7B-COCO',
-#                       'OPT2.7B-COCO', 'OPT6.7B', 'OPT2.7B',
-model_size_vqa: FlanT5-XXL
-#model_size_vqa: OPT2.7B-COCO
-
-# LLMs
-model_type_llm: gpt-3.5-turbo
-
 image_size: 224
 # ['RN50@224px', 'RN101@224px', 'RN50x4@288px', 'RN50x16@384px', 'RN50x64@448px',
 #  'ViT-B/32@224px', 'ViT-B/16@224px', 'ViT-L/14@224px', 'ViT-L/14@336px']
