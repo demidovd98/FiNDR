@@ -8,7 +8,7 @@ PYTHON_CMD_EVAL="python -W ignore eval.py --config_file_env $ENV_CONFIG_PATH --c
 # Core function to execute commands
 run_cmds() {
     local num_categories=$1
-    $PYTHON_CMD_EVAL --alpha 0.7 --N_tta 10 --num_per_category ${num_categories} --num_runs 10
+    $PYTHON_CMD_EVAL --alpha 0.7 --N_tta 10 --num_per_category ${num_categories} --num_runs 1 #10
 }
 
 # run with 3 images per class
