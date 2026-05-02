@@ -11,4 +11,5 @@ run_cmds() {
     $PYTHON_CMD_EVAL --alpha 0.7 --N_tta 10 --num_per_category ${num_categories} --num_runs 10
 }
 
+# run with 3 images per class
 run_cmds "3"
