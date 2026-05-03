@@ -183,19 +183,6 @@ def generate_voted_classifier(
     print("Number of guessed_cnames without duplicates: ", len(guessed_cnames))
 
 
-    # Generate visualization of ground truth vs guessed class names
-    if guessed_cnames is not None:
-        viz_output_path = f"./visualizations/{cfg['dataset_name']}_classnames_comparison.html"
-        generate_html_visualization(
-            gt_names=gt_cnames,
-            guessed_names=guessed_cnames,
-            output_path=viz_output_path,
-            title=f"{cfg['dataset_name'].upper()} - Ground Truth vs Guessed Class Names"
-        )
-    else:
-        print("[INFO] Skipping visualization: guessed class names not available")
-
-
     if do_robustness_test:
         num_to_replace = int(len(guessed_cnames) * robustness_data_portion)
         for i in range(num_to_replace):
