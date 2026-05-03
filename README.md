@@ -108,27 +108,27 @@ The datasets are available here: [link](https://mbzuaiac-my.sharepoint.com/:f:/g
 Additionally, you can use direct download links:
 - **Birds-200** (CUB-200-2011):
 ```bash
-wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQDk4hHO2i_-S7q_A6eG-h9MAWl7HdxXlow6UsRdhQcEyhI?e=k8aozJ?download=1"
+wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQDk4hHO2i_-S7q_A6eG-h9MAWl7HdxXlow6UsRdhQcEyhI?download=1"
 ```
 
 - **Cars-196** (Stanford Cars):
 ```bash
-wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQAolhbGZpdZRpr2DG8J5nZQAWfgHWB-S2pASn1K-cvjKHY?e=7vvuxT?download=1"
+wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQAolhbGZpdZRpr2DG8J5nZQAWfgHWB-S2pASn1K-cvjKHY?download=1"
 ```
 
 - **Dogs-120** (Stanford Dogs):
 ```bash
-wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQDARv5F02pfQZsTlSrcPSaeAcdCWIXPExurhFJxNMJroNk?e=Nsr7ql?download=1"
+wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQDARv5F02pfQZsTlSrcPSaeAcdCWIXPExurhFJxNMJroNk?download=1"
 ```
 
 - **Flowers-102** (Oxford Flowers):
 ```bash
-wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQD4r2FdG3nfRacgXuAIrIImAReuFRdrr8LyZd_yYIiT0U4?e=ug1C4d?download=1"
+wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQD4r2FdG3nfRacgXuAIrIImAReuFRdrr8LyZd_yYIiT0U4?download=1"
 ```
 
 - **Pets-37** (Oxford Pets):
 ```bash
-wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQD8wqlmsNf7QYURZ1B9Ko1SAYJTP3BssiOl5aKndjhoKk4?e=nMhPg4?download=1"
+wget --content-disposition "https://mbzuaiac-my.sharepoint.com/:u:/g/personal/dmitry_demidov_mbzuai_ac_ae/IQD8wqlmsNf7QYURZ1B9Ko1SAYJTP3BssiOl5aKndjhoKk4?download=1"
 ```
 
 Alternatively, for dataset download and preparation, follow a beautifully written guide available [here](https://github.com/OatmealLiu/FineR?tab=readme-ov-file#-datasets-preparation).
