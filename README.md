@@ -78,7 +78,7 @@ conda create --name findr --file envs/conda_requirements.txt
 
 2. Activate the environment and install CLIP (non-conda package):
 ```bash
-conda activate e-finer
+conda activate findr
 pip install git+https://github.com/openai/CLIP.git
 ```
 
@@ -160,7 +160,7 @@ sh run/eval_pets.sh
 ## Repository Structure
 
 ```
-e-finer/
+findr/
 ├── configs/               # Configuration files for experiments
 ├── data/                  # Dataset loaders, preprocessing, generated in-context sentences
 ├── datasets/              # Fine-grained datasets
