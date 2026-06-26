@@ -6,7 +6,7 @@ This repository contains the reference implementation for **FiNDR (Fine-grained 
 > Dmitry Demidov, Zaigham Zaheer, Zongyan Han, Omkar Thawakar, Rao Anwer
 > Mohamed bin Zayed University of Artificial Intelligence
 > [[arXiv]](https://arxiv.org/abs/2512.18897)
-> [[CVPR 2026 (soon)]]()
+> [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/papers/Demidov_Thinking_Beyond_Labels_Vocabulary-Free_Fine-Grained_Recognition_using_Reasoning-Augmented_LMMs_CVPR_2026_paper.pdf)
 
 FiNDR removes the need for predefined or human-curated label vocabularies by discovering, verifying, and using fine-grained semantic class names directly from unlabelled images. Our approach challenges the assumption that human-defined vocabularies represent an upper bound for fine-grained recognition performance by outperforming zero-shot classifiers that rely on ground-truth class names.
 
