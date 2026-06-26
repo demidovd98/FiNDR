@@ -1,4 +1,4 @@
-name: e_finer
+name: findr
 channels:
   - conda-forge
   - defaults
